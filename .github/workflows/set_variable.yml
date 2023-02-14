@@ -8,7 +8,7 @@ on:
         options:
         - MT3000
       sourcecode:
-        description: 'https://github.com/destan19/OpenAppFilter'     
+        description: 'https://github.com/destan19/OpenAppFilter.git'     
         required: true
       pkgname:
         description: 'OpenAppFilter-mt3000'  
