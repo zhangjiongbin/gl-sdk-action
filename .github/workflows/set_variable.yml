@@ -11,7 +11,7 @@ on:
         description: 'https://github.com/destan19/OpenAppFilter.git'     
         required: true
       pkgname:
-        description: 'OpenAppFilter-mt3000'  
+        description: 'luci-app-oaf'  
         required: true
       email:
         description: 'Git accuont email address'  
